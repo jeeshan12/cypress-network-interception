@@ -1,0 +1,19 @@
+{
+  "name": "cypress-network-interception",
+  "version": "1.0.0",
+  "description": "Cypress specs to demonstrate Network Interception",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Cypress",
+    "Network",
+    "Interception"
+  ],
+  "author": "Mohd Jeeshan",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.1.0"
+  }
+}
